@@ -17,7 +17,6 @@ SET time_zone = "+00:00";
 -- Database: `egs_db`
 --
 
--- --------------------------------------------------------
 
 --
 -- Table structure for table `bill`
